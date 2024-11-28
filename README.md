@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="600" alt="Hi GIF">
 </p>
 
-## ˚₊·—̳͟͞͞♡ Sobre mim 
+## *ੈ✩‧₊˚  Sobre mim 
 - 💻 **Desenvolvedora em formação** | Cursando Desenvolvimento de Sistemas no SENAI-SP.
 - 👾 Habilidades: **HTML**, **CSS**, **JavaScript**, **SQL**, **Python**.
 - 🌎 **Inglês Avançado** 
