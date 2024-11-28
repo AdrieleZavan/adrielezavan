@@ -1,7 +1,7 @@
 # <div align="center">👋 Olá, eu sou a <span style="animation: bounce 1.5s infinite;">Adriele Zavan</span>!</div>
 
 <p align="center">
-  <img src=![image](https://github.com/user-attachments/assets/4368aee3-6cf4-4774-94fc-97506ce3a868)" width="300" alt="Hi GIF">
+  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="300" alt="Hi GIF">
 </p>
 
 ## 🌟 Sobre mim 
