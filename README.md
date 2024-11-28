@@ -1,5 +1,5 @@
 
-# <div align="center"> ✩°｡⋆ Olá, eu sou a <span style="color: #FF5733;">Adriele Zavan</span>!</div>
+# <div align="center"> ✩°｡⋆ Olá, eu sou a <span style="color:#4B0082;">Adriele Zavan</span>!</div>
 
 
 <p align="center">
