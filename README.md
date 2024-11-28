@@ -12,7 +12,7 @@
 
 ---
 
-## ₊˚⊹♡ Estatísticas do GitHub
+## ๋࣭ ⭑⚝ Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
