@@ -1,7 +1,7 @@
 # <div align="center"> ✩°｡⋆ Olá, eu sou a <font color="#4B0082">Adriele Zavan</font>!</div>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="600" alt="Hi GIF">
+  <img src="https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif" width="600" alt="Hi GIF">
 </p>
 
 ## *ੈ✩‧₊˚  Sobre mim 
