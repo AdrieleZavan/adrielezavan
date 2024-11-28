@@ -1,4 +1,6 @@
-# <div align="center">👋 Olá, eu sou a <span style="animation: bounce 1.5s infinite;">Adriele Zavan</span>!</div>
+
+# <div align="center"> ✩°｡⋆ Olá, eu sou a <span style="color: #FF5733;">Adriele Zavan</span>!</div>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="600" alt="Hi GIF">
