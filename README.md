@@ -7,13 +7,13 @@
 ## *ੈ✩‧₊˚  Sobre mim 
 - 💻 **Desenvolvedora em formação** | Cursando Desenvolvimento de Sistemas no SENAI-SP.
 - 🌎 **Inglês Avançado** 
-- 👾 Habilidades:
+  - 👾 Habilidades:
   <br>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" width="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg?color=800080" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg?color=800080" width="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg?color=800080" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg?color=800080" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg?color=800080" width="40" alt="CSS" />
 
 
 ---
