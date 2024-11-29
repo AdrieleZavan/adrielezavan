@@ -52,7 +52,6 @@
 </p>
 
 
-![Snake animation](https://github.com/AdrieleZavan/AdrieleZavan/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
