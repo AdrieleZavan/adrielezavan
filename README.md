@@ -9,12 +9,12 @@
 - 🌎 **Inglês Avançado** 
 - 👾 Habilidades:
   <br>
-  <img src="https://raw.githubusercontent.com/dwyl/merge-requests-example/master/assets/python.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/dwyl/merge-requests-example/master/assets/mysql.svg" width="40" alt="SQL" />
-  <img src="https://raw.githubusercontent.com/dwyl/merge-requests-example/master/assets/javascript.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/dwyl/merge-requests-example/master/assets/html5.svg" width="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/dwyl/merge-requests-example/master/assets/css3.svg" width="40" alt="CSS" />
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+- 🌎 **Inglês Avançado** 
 
 ---
 
