@@ -63,4 +63,4 @@
 ###
 ---
 
-**Sinta-se à vontade para explorar meus repositórios e colaborar em projetos!˚₊‧ ୨୧ ‧₊˚ ⋅**
+**Sinta-se à vontade para explorar meus repositórios e colaborar em projetos! ˚₊‧ ୨୧ ‧₊˚ ⋅**
