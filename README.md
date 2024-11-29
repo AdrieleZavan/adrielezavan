@@ -7,7 +7,7 @@
 ## *ੈ✩‧₊˚  Sobre mim 
 - 💻 **Desenvolvedora em formação** | Cursando Desenvolvimento de Sistemas no SENAI-SP.
 - 🌎 **Inglês Avançado** 
-  - 👾 Habilidades:
+- 👾 Habilidades:
   <br>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg?color=800080" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg?color=800080" width="40" alt="SQL" />
