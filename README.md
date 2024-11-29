@@ -1,4 +1,4 @@
-# <div align="center"> ✩°｡⋆ Olá, eu sou a <font color="#4B0082">Adriele Zavan</font>!</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5846B6&width=435&lines=%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86+Ol%C3%A1%2C+eu+sou+a+Adriele+Zavan!" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="600" alt="Hi GIF">
