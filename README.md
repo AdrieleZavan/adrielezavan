@@ -6,14 +6,15 @@
 
 ## *ੈ✩‧₊˚  Sobre mim 
 - 💻 **Desenvolvedora em formação** | Cursando Desenvolvimento de Sistemas no SENAI-SP.
+- 🌎 **Inglês Avançado** 
 - 👾 Habilidades:
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-- 🌎 **Inglês Avançado** 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/MySQL_logo.svg" width="40" alt="SQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.svg" width="40" alt="JavaScript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HTML5_logo_and_wordmark.svg" width="40" alt="HTML" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/CSS3_logo_and_wordmark.svg" width="40" alt="CSS" />
+
 
 
 ---
