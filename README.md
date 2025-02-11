@@ -5,7 +5,7 @@
 </p>
 
 ## *ੈ✩‧₊˚  Sobre mim 
-- 💻 **Desenvolvedora em formação** | Cursando Desenvolvimento de Sistemas no SENAI-SP.
+- 💻 **💻 Desenvolvedora formada | Formada em Desenvolvimento de Sistemas pelo SENAI-SP.
 - 🌎 **Inglês Avançado** 
 - 👾 **Habilidades:**
   <br>
