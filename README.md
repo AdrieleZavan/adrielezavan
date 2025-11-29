@@ -28,12 +28,20 @@
 ---
 
 ## ๋࣭ ⭑⚝ Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=radical" 
+    alt="Estatísticas do GitHub"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=radical"
+    alt="Linguagens Mais Usadas"
+    height="165"
+  />
 </p>
 
----
 
 ## ˙✧˖°Onde me encontrar
 <p align="center">
