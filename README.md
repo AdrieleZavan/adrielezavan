@@ -31,16 +31,17 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=radical" 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=radical" 
     alt="Estatísticas do GitHub"
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=radical"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=radical"
     alt="Linguagens Mais Usadas"
     height="165"
   />
 </p>
+
 
 
 ## ˙✧˖°Onde me encontrar
@@ -54,10 +55,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif" width="600" alt="Hi GIF">
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrieleZavan/AdrieleZavan/output/github-contribution-grid-snake-dark.svg">
