@@ -4,7 +4,8 @@
   <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="600" alt="Hi GIF">
 </p>
 
-## *ੈ✩‧₊˚  Sobre mim 
+## *ੈ✩‧₊˚  Sobre mim
+- 🖥️**Cursando Tecnologia em Sistemas para Internet** | IFSP-Araraquara
 - 💻 **Desenvolvedora formada** | Formada em Desenvolvimento de Sistemas pelo SENAI-SP. 
 - 🌎 **Inglês Avançado** 
 - 👾 **Habilidades:**
