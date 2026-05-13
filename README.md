@@ -1,44 +1,72 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5846B6&width=435&lines=%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86+Ol%C3%A1%2C+eu+sou+a+Adriele+Zavan!" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" width="600" alt="Hi GIF">
-</p>
+<div align="center">
 
-## *ੈ✩‧₊˚  Sobre mim
-- 🖥️ **Cursando Tecnologia em Sistemas para Internet** | IFSP-Araraquara
-- 💻 **Desenvolvedora formada** | Formada em Desenvolvimento de Sistemas pelo SENAI-SP. 
-- 🌎 **Inglês Avançado** 
-- 👾 **Habilidades:**
-  <br>
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=🌸+Olá%2C+eu+sou+a+Adriele+Zavan!;Bem-vindo(a)+ao+meu+cantinho+dev+🌸" />
+
+<img src="https://media.tenor.com/dg7Th23TzFUAAAAC/anime-sakura.gif" width="600px"/>
+
 </div>
-
-###
 
 ---
 
+# 🌸 *ੈ✩‧₊˚ Sobre mim
 
+<img align="right" height="180" src="https://i.pinimg.com/originals/5e/2a/58/5e2a58d4c6a89c14a7d3f7a1e5d0f7d4.gif"/>
 
-## ˙✧˖°Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/adriele-zavan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:adriele.zavan4313@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+- 🖥️ **Cursando Tecnologia em Sistemas para Internet** | IFSP-Araraquara  
+- 💻 **Desenvolvedora formada** | SENAI-SP  
+- 🌎 **Inglês Avançado**  
+- 🌸 Apaixonada por tecnologia, design delicado e interfaces criativas  
+- 👾 **Habilidades:**  
+
+<br>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+</div>
+
+---
+
+# 🌸 ˙✧˖° Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adriele-zavan/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adriele.zavan4313@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117"/>
+
+</div>
 
 ---
 
@@ -48,10 +76,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrieleZavan/AdrieleZavan/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-###
 ---
 
-**Sinta-se à vontade para explorar meus repositórios e colaborar em projetos! ˚₊‧ ୨୧ ‧₊˚ ⋅**
+<div align="center">
+
+### 🌸 *Sinta-se à vontade para explorar meus repositórios e colaborar em projetos!* 🌸
+
+<img src="https://media.tenor.com/Er2c4RktqMcAAAAC/sakura-anime.gif" width="250"/>
+
+</div>
+
