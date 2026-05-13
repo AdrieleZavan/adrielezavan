@@ -1,59 +1,59 @@
-
+````md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=🌸+Olá%2C+eu+sou+a+Adriele+Zavan!;Bem-vindo(a)+ao+meu+cantinho+dev+🌸" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=⚡+HELLO+WORLD%2C+I'M+ADRIELE+ZAVAN;SYSTEMS+DEVELOPER+%7C+CYBERPUNK+VIBES;WELCOME+TO+MY+DIGITAL+SPACE+⚡" />
 
-<img src="https://media.tenor.com/dg7Th23TzFUAAAAC/anime-sakura.gif" width="600px"/>
+<img src="https://i.pinimg.com/originals/2d/4d/e7/2d4de7f7cb9b5a7d6d4f9c3db1d9b0d6.gif" width="800"/>
 
 </div>
 
 ---
 
-# 🌸 *ੈ✩‧₊˚ Sobre mim
+# <img src="https://media.tenor.com/xVfFIHxAzW4AAAAi/purple.gif" width="35"> SOBRE MIM
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/5e/2a/58/5e2a58d4c6a89c14a7d3f7a1e5d0f7d4.gif"/>
+```console
+> Inicializando sistema...
 
-- 🖥️ **Cursando Tecnologia em Sistemas para Internet** | IFSP-Araraquara  
-- 💻 **Desenvolvedora formada** | SENAI-SP  
-- 🌎 **Inglês Avançado**  
-- 🌸 Apaixonada por tecnologia, design delicado e interfaces criativas  
-- 👾 **Habilidades:**  
+[✓] Tecnologia em Sistemas para Internet — IFSP Araraquara
+[✓] Técnica em Desenvolvimento de Sistemas — SENAI-SP
+[✓] Inglês Avançado
+[✓] Desenvolvedora Full Stack em evolução
+````
 
 <br>
 
-<div align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="12"/>
+## ⚡ STACK TECNOLÓGICA
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=js,python,mysql,nodejs,html,css,vscode,git&theme=dark" />
 
 </div>
 
 ---
 
-# 🌸 ˙✧˖° Onde me encontrar
+<div align="center">
+
+# 🌌 DIGITAL PROFILE
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&text_color=FFFFFF&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🌐 CONECTE-SE COMIGO
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/adriele-zavan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
 </a>
 
 <a href="mailto:adriele.zavan4313@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF"/>
 </a>
 
 </div>
@@ -62,27 +62,28 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdrieleZavan&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrieleZavan&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117"/>
-
-</div>
-
----
+## 🧠 SYSTEM ACTIVITY
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrieleZavan/AdrieleZavan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrieleZavan/AdrieleZavan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrieleZavan/AdrieleZavan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrieleZavan/AdrieleZavan/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌸 *Sinta-se à vontade para explorar meus repositórios e colaborar em projetos!* 🌸
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk-edgerunners.gif" width="700"/>
 
-<img src="https://media.tenor.com/Er2c4RktqMcAAAAC/sakura-anime.gif" width="250"/>
+### ⚡ Explore meus repositórios e conecte-se ao sistema ⚡
+
+```diff
++ ACCESS GRANTED
++ WELCOME TO MY CYBERSPACE
+```
 
 </div>
-
+```
