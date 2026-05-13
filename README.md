@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=⚡+HELLO+WORLD%2C+I'M+ADRIELE+ZAVAN;SYSTEMS+DEVELOPER+%7C+CYBERPUNK+VIBES;WELCOME+TO+MY+DIGITAL+SPACE+⚡" />
@@ -11,7 +11,6 @@
 
 # <img src="https://media.tenor.com/xVfFIHxAzW4AAAAi/purple.gif" width="35"> SOBRE MIM
 
-```console
 > Inicializando sistema...
 
 [✓] Tecnologia em Sistemas para Internet — IFSP Araraquara
