@@ -5,7 +5,7 @@
 </p>
 
 ## *ੈ✩‧₊˚  Sobre mim
-- 🖥️**Cursando Tecnologia em Sistemas para Internet** | IFSP-Araraquara
+- 🖥️ **Cursando Tecnologia em Sistemas para Internet** | IFSP-Araraquara
 - 💻 **Desenvolvedora formada** | Formada em Desenvolvimento de Sistemas pelo SENAI-SP. 
 - 🌎 **Inglês Avançado** 
 - 👾 **Habilidades:**
