@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5846B6&width=435&lines=%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86+Ol%C3%A1%2C+eu+sou+a+Adriele+Zavan!" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" width="800" alt="Hi GIF">
+  <img src="https://i.pinimg.com/originals/93/91/cd/9391cdafe739ae11eeb04b904835e643.gif" width="600" height = "800 "alt="Hi GIF">
 </p>
 
 ## *ੈ✩‧₊˚  Sobre mim
